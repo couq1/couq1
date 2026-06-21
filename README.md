@@ -30,38 +30,6 @@ HTML, CSS, JavaScript, Node.js
 ### Database
 MySQL, SQL Server
 
----
-
-## 📌 Featured Projects
-
-### 🛒 Real-time Customer Analytics for Product Recommendation
-A Big Data project using batch and real-time processing to analyze customer behavior and recommend products.
-
-**Tech:** Kafka, Spark Streaming, PySpark, Dashboard
-
----
-
-### 📊 E-commerce Data Analysis with PySpark
-Processed online retail data, cleaned raw data, calculated revenue, analyzed customer behavior and monthly trends.
-
-**Tech:** Hadoop, HDFS, Spark, PySpark
-
----
-
-### ☸️ Kubernetes Auto Scaling with HPA
-Research and evaluation of Horizontal Pod Autoscaler in Kubernetes for automatic scaling based on system load.
-
-**Tech:** Kubernetes, HPA, Metrics Server, Cloud Computing
-
----
-
-### 🇨🇳 HSK Vocabulary Learning Web
-A web application for learning Chinese vocabulary with Pinyin, Vietnamese meaning, and JSON vocabulary data.
-
-**Tech:** HTML, CSS, JavaScript, Node.js
-
----
-
 ## 📫 Contact
 
 - Email: anhquoc8379@gmail.com
